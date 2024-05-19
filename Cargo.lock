@@ -29,7 +29,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "diesel-demo"
+name = "diesel_demo"
 version = "0.1.0"
 dependencies = [
  "diesel",
