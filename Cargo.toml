@@ -15,5 +15,17 @@ doc = false
 name = "write_post"
 doc = false
 
+[[bin]]
+name = "delete_post"
+doc = false
+
+[[bin]]
+name = "publish_post"
+doc = false
+
+[[bin]]
+name = "get_post"
+doc = false
+
 [lib]
 doc = false
